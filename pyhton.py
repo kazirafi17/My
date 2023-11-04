@@ -1,1 +1,2 @@
+print("My first code")
 
